@@ -40,6 +40,10 @@ img {
   display: flex;
  
 }
+.logo {
+  width: 400px;
+}
+
 
 .logo {
   width: 70px;
